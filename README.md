@@ -1,6 +1,6 @@
 ### Hi 👋
 I'm Kerudion - Minecraft mods, plugins and resource packs developer.
-Currently I've created only one mod - [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in), which has 200k+ downloads on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in) and 13k+ on [Modrinth](https://modrinth.com/mod/chunks-fade-in).
+Currently I've created only one mod - [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in), which has 1,25m+ downloads on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in) and 150k+ on [Modrinth](https://modrinth.com/mod/chunks-fade-in).
 
 But, of course, I won't stop and I'll create even more content!
 
